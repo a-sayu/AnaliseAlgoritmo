@@ -14,7 +14,7 @@ Análise Experimental e Implementação de algoritmos de ordenação:
 
 ## Etapas para o Desenvolvimento
 
-- [ ] Gerador de Entradas
+- [x] Gerador de Entradas
 - [ ] Armazenamento
 - [ ] Códigos de Ordenação
 - [ ] Contabilização de Tempo de Execução
