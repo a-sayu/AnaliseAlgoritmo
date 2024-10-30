@@ -24,4 +24,6 @@ Análise Experimental e Implementação de algoritmos de ordenação:
 
 Criar / Ler Vetor: gcc code/main/criarVetores.c code/library/gerador.c code/library/armazenar.c -o exec/criarVetores
 
-Execução: gcc code/main/main.c code/library/armazenar.c -o exec/main
+Execução: gcc code/main/main.c code/library/armazenar.c code/sort/* -o exec/main
+
+- Substitua * pelo ordenador.
