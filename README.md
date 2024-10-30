@@ -15,7 +15,13 @@ Análise Experimental e Implementação de algoritmos de ordenação:
 ## Etapas para o Desenvolvimento
 
 - [x] Gerador de Entradas
-- [ ] Armazenamento
+- [x] Armazenamento
 - [ ] Códigos de Ordenação
 - [ ] Contabilização de Tempo de Execução
 - [ ] Relatório e Gráficos
+
+## Execução
+
+Criar / Ler Vetor: gcc code/main/criarVetores.c code/library/gerador.c code/library/armazenar.c -o exec/criarVetores
+
+Execução: gcc code/main/main.c code/library/armazenar.c -o exec/main
